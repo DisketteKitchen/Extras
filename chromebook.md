@@ -4,7 +4,7 @@ I've never been much of a fan of Chromebooks, so I decided to compare my school 
 
 #### If you haven't come here from the video, you should really watch it!
 
-[![Video Link](./images/chromebook/thumbnail.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Video Link](./images/chromebook/thumbnail.png)](https://youtu.be/Jj9wPObPrmA)
 
 ## WebGL Aquarium
 ![Benchmark title](./images/chromebook/webgl.pdf)
