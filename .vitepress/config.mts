@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     siteTitle: false,
 
-    logo: '/brand/logo.svg',
+    logo: '/public/logo.svg',
 
     search: {
       provider: 'local'
