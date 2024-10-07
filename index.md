@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Data from videos"
   tagline: For the nerds
-  image: /dk-graph.png
+  image: /brand/dk-graph.png
   actions:
     - theme: brand
       text: Latest Video's Data
