@@ -1,6 +1,5 @@
 # Chroembook vs. the world
-I've never been much of a fan of Chromebooks, but I decided to do a bit more of a comparison. The results even surprised me
-
+I've never been much of a fan of Chromebooks, so I decided to compare my school issued chromebook to ThinkPad T520 from 2011.
 ## Watch the Video
 
 #### If you haven't come here from the video, you should really watch it!
@@ -9,27 +8,27 @@ I've never been much of a fan of Chromebooks, but I decided to do a bit more of 
 
 ## WebGL Aquarium
 ![Benchmark title](./images/chromebook/webgl.pdf)
-Remarks 
+This one's pretty basic, so I was kind of impressed that the Chromebook only made it to 1,000 fish. The ThinkPad T520 Looks like it's stealing candy from a baby
 
 ## Google Octane
 ![Benchmark title](./images/chromebook/octane.pdf)
-Remarks 
+I know Octane is a bit out of date at this point, but it seemed fair to test a Chromebook with Google's own benchmark
 
 ## Speedometer 3.0
 ![Benchmark title](./images/chromebook/speedometer.pdf)
-Remarks 
+The spiritual successor to Octane
 
 ## Webpage Loading Speed
 ![Benchmark title](./images/chromebook/webpage.pdf)
-Remarks 
+This is a device literally made to browse the web, and it can bareley even load the New York Times.
 
 ## Startup Speed
 ![Benchmark title](./images/chromebook/startup.pdf)
-Remarks 
+Not a surprise here that the Thinkpad took the longest, given that it's the only tested machine with a spinning hard drive.
 
 ## YouTube Playback
 ![Benchmark title](./images/chromebook/tube.pdf)
-Remarks 
+Literally the bare minimum 
 
 # The Real Laptops
 #### I was curious about the performence differences between all the non-chromebooks
