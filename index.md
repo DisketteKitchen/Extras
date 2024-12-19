@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Data from videos"
+  name: "Diskette://Data"
   tagline: For the nerds
   image: /dk-graph.png
   actions:
