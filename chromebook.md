@@ -1,4 +1,4 @@
-# Chroembook vs. the world
+# Chromebook vs. the world
 I've never been much of a fan of Chromebooks, so I decided to compare my school issued chromebook to ThinkPad T520 from 2011.
 ## Watch the Video
 
