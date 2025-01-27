@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 
 export default defineConfig({
-  title: "Diskette Data",
+  title: "Diskette Extras",
   description: "Extra context for (some) videos!",
   themeConfig: {
     siteTitle: false,
@@ -16,12 +16,12 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Latest Data', link: '/chromebook' }
+      { text: 'Data', link: '/chromebook' },
     ],
 
     sidebar: [
       {
-        text: 'Graphs & Data',
+        text: 'Data',
         items: [
           { text: 'Chromebook Benchmarks', link: '/chromebook' },
         ]
@@ -29,7 +29,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'youtube', link: 'https://youtube.com/@diskettekitchen' }
+      { icon: 'youtube', link: 'https://youtube.com/@diskettekitchen' },
+      { icon: 'instagram', link: 'https://instagram.com/diskettekitchen' },
+      { icon: 'github', link: 'https://github.com/diskettekitchen' }
     ]
   }
 })

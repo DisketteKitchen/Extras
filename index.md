@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "Diskette://Data"
-  tagline: For the nerds
-  image: /dk-graph.png
+  name: "DiskExtras"
+  tagline: Additional information from videos
+  image: /extras.png
   actions:
     - theme: brand
-      text: Latest Video's Data
+      text: Latest Article
       link: /chromebook
     - theme: alt
 
@@ -16,7 +16,7 @@ features:
   - title: Chromebook Benchmarks
     details: Graphs and remarks
     link: /chromebook
-  - title: More coming soon!
-    details: 
+  - title: More coming at some point
+    details: Supplemental information and tutorials will be added as needed
 ---
 
